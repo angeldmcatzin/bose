@@ -16,7 +16,6 @@
 .fw-800 {
     font-weight: 800 !important;
 }
-
 .text-gray-100{
     color: var(--bs-gray-100);
 }
@@ -44,7 +43,6 @@
 .text-gray-900{
     color: var(--bs-gray-900);
 }
-
 .w-20px{
     width: 20px !important;
 }
@@ -214,6 +212,9 @@
     .section-80,
     .section-70{
         padding: 50px 0;
+    }
+    .h-sm-auto{
+        height: auto !important;
     }
     .fs-sm-10{
         font-size: 1rem !important;
