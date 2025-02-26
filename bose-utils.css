@@ -85,8 +85,14 @@
 .w-60px{
     width: 60px !important;
 }
+.w-70px{
+    width: 70px !important;
+}
 .w-80px{
     width: 80px !important;
+}
+.w-90px{
+    width: 90px !important;
 }
 .w-100px{
     width: 100px !important;
@@ -157,8 +163,14 @@
 .h-60px{
     height: 60px !important;
 }
+.h-70px{
+    height: 70px !important;
+}
 .h-80px{
     height: 80px !important;
+}
+.h-90px{
+    height: 90px !important;
 }
 .h-100px{
     height: 100px !important;
