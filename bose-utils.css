@@ -217,6 +217,18 @@
 .h-600px{
     height: 600px !important;
 }
+.ls-0{
+    letter-spacing: 0px !important;
+}
+.ls-1{
+    letter-spacing: 1px !important;
+}
+.ls-2{
+    letter-spacing: 2px !important;
+}
+.ls-3{
+    letter-spacing: 3px !important;
+}
 .fs-7{
     font-size: 0.9rem !important;
 }
