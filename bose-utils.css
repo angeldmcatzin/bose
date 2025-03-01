@@ -262,6 +262,15 @@
 .section-50 {
     padding: 50px 0;
 }
+.border-2px {
+    border-width: 2px !important;
+}
+.border-3px {
+    border-width: 3px !important;
+}
+.border-4px {
+    border-width: 4px !important;
+}
 .z-index-min-1{
     z-index: -1 !important;
 }
