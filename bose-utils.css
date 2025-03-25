@@ -1,3 +1,6 @@
+.section-120{
+    padding: 120px 0;
+}
 .section-100{
     padding: 100px 0;
 }
@@ -276,11 +279,19 @@
     aspect-ratio: 16/9 !important;
     height: auto !important;
 }
+.video-wrap-reel iframe{
+    width: 100% !important;
+    aspect-ratio: 9/16 !important;
+    height: auto !important;
+}
 .video-16-9{
     aspect-ratio: 16/9 !important;
 }
 .video-9-16{
     aspect-ratio: 9/16 !important;
+}
+.square{
+    aspect-ratio: 1/1 !important;
 }
 @media (max-width: 991px) {
     .section-100,
